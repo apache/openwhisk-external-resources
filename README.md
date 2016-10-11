@@ -31,7 +31,7 @@
 - [Serverless APIs with OpenWhisk and API Connect](http://jamesthom.as/blog/2016/04/26/serverless-apis-with-openwhisk-and-api-connect/) - Creating public APIs for serverless web applications.
 - [Monitoring Apps using OpenWhisk](https://iainhouston.com/blog/openwhisk-workflow.html) - Using Openwhisk to run a Python monitoring app.
 - [Combining Twilio with Serverless Functions](https://medium.com/@osipov/polyglot-serverless-computing-using-docker-and-openwhisk-c6ff14e7ed8#.8yqcku48y) - Using Twilio APIs from OpenWhisk Actions.
-- [Jess: Serverless & GUI-less App](Jess: A Serverless and GUI-less App) - Budgeting application using Twilio and OpenWhisk.
+- [Jess: Serverless & GUI-less App](http://www.markwatsonatx.com/tutorial/openwhisk/serverless/2016/08/04/serverless-guiless-openwhisk.html) - Budgeting application using Twilio and OpenWhisk.
 
 
 
