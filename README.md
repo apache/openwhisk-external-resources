@@ -88,8 +88,6 @@
 - [Official OpenWhisk Tutorial](https://github.com/openwhisk/openwhisk-tutorial) - Interactive tutorials for learning how to use OpenWhisk.
 - [openwhisk-workshop](https://www.npmjs.com/package/openwhisk-workshop) - Command-line utility to introduce the concepts behind the platform using NodeSchool toolchain.
 
-  ​
-
 ## Runtimes
 
 *Links to samples, libraries and projects for running Actions using different languages*.
