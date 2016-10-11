@@ -1,8 +1,10 @@
-# Awesome OpenWhisk [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
+# Awesome OpenWhisk [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://raw.githubusercontent.com/openwhisk/openwhisk/master/docs/images/whisk_icon_full_color_with_tm_100x100-300dpi.png" width="100" align="right" alt="openwhisk">](https://github.com/openwhisk/openwhisk)
 
 > Awesome [OpenWhisk](https://www.github.com/openwhisk/openwhisk) resources and tips.
 
-*OpenWhisk is a cloud-first distributed event-based programming service. It provides a programming model to upload event handlers to a cloud service, and register the handlers to respond to various events. Learn more at https://developer.ibm.com/openwhisk or try it on IBM Bluemix OpenWhisk.*
+*OpenWhisk is a cloud-first distributed event-based programming service. It provides a programming model to upload event handlers to a cloud service, and register the handlers to respond to various events.*
+
+*Learn more at https://developer.ibm.com/openwhisk or try it on [IBM Bluemix OpenWhisk](https://bluemix.net).*
 
 ## Contents
 
@@ -22,7 +24,6 @@
 *Articles, tutorials and blogs on building serverless applications using OpenWhisk.*
 
 - [OpenWhisk Planner Bot](https://developer.ibm.com/open/2016/05/13/openwhisk-planner-bot/) - Plan your conference schedule with a serverless recommendation bot
-
 - [Building a Phrase Translator](http://www.ibm.com/developerworks/cloud/library/cl-openwhisk-node-bluemix-user-facing-app/index.html) - Implementing a user interface with serverless functions.
 - [Subscribe to RSS Feeds via OpenWhisk](http://blog.ibmjstart.net/2016/08/31/subscribe-rss-feeds-using-new-openwhisk-package/) - Use Trigger Feeds to connect Actions to RSS Feed events.
 - [Exploring OpenWhisk's REST API](https://amanoblog.wordpress.com/2016/03/03/ibm-bluemix-openwhisk-rest-api/) - Details on the platform API for OpenWhisk.
@@ -68,17 +69,9 @@
 
 - [Tech Talk about OpenWhisk](https://developer.ibm.com/open/events/dw-open-tech-talk-openwhisk/) - Detailed look at this new open source platform from Stephen Fink.
 - [The Future Of Cloud Programming](https://www.youtube.com/watch?v=sV7W-eK2x5U) - IBM Bluemix OpenWhisk Talk @ Codemotion 2016, Amsterdam
-
-
 - [Serverless Applications with Cloud Foundry and OpenWhisk](https://www.youtube.com/watch?v=kydt6JgW6_8) - Video from Cloud Foundry Summit 2016.
-
-
 - [Microservices Without Servers](http://jamesthom.as/blog/2016/09/08/microservices-without-servers/) - Slides, demo videos and sample code from conference talk on building serverless applications with OpenWhisk.
-
-
 - [Voxxed Days Presentation](https://youtu.be/SpmSu6-BOrI?t=8h9m22s) - Video recording for the Microservices Without Servers talk. 
-
-
 - [Official OpenWhisk Slides](http://www.slideshare.net/OpenWhisk) - Presentation decks from OpenWhisk team.
 
 ### Podcasts
@@ -93,8 +86,6 @@
 *Tutorials and other material to help you learn OpenWhisk*
 
 - [Official OpenWhisk Tutorial](https://github.com/openwhisk/openwhisk-tutorial) - Interactive tutorials for learning how to use OpenWhisk.
-
-
 - [openwhisk-workshop](https://www.npmjs.com/package/openwhisk-workshop) - Command-line utility to introduce the concepts behind the platform using NodeSchool toolchain.
 
   ​
@@ -149,7 +140,6 @@
 
 - [Node.js](https://github.com/openwhisk/openwhisk-client-js) - JavaScript client library for the OpenWhisk platform.
 - [Swift](https://github.com/openwhisk/openwhisk-client-swift) - Swift client SDK for OpenWhisk with support for iOS, WatchOS2, and Darwin CLI apps.
-
 
 
 ## Support
