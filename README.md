@@ -8,7 +8,7 @@
 
 ## Contents
 
-- [Articles](#articles) 
+- [Articles](#articles)
 - [Applications](#applications)
 - [Media](#media)
 - [Workshops](#workshops)
@@ -22,7 +22,7 @@
 ## Articles
 
 *Articles, tutorials and blogs on building serverless applications using OpenWhisk.*
-
+- [What makes serverless architectures so attractive?](https://developer.ibm.com/opentech/2016/09/06/what-makes-serverless-attractive/) - Serverless is the hottest trend in cloud this year, and for good reason.
 - [OpenWhisk Planner Bot](https://developer.ibm.com/open/2016/05/13/openwhisk-planner-bot/) - Plan your conference schedule with a serverless recommendation bot
 - [Building a Phrase Translator](http://www.ibm.com/developerworks/cloud/library/cl-openwhisk-node-bluemix-user-facing-app/index.html) - Implementing a user interface with serverless functions.
 - [Subscribe to RSS Feeds via OpenWhisk](http://blog.ibmjstart.net/2016/08/31/subscribe-rss-feeds-using-new-openwhisk-package/) - Use Trigger Feeds to connect Actions to RSS Feed events.
@@ -39,11 +39,12 @@
 
 *Sample open-source projects built using the OpenWhisk platform*
 
-- [openwhisk-monitoring](https://github.com/KimStebel/openwhisk-monitoring) - Example of using OpenWhisk to monitor HTTP server status. 
+- [openwhisk-monitoring](https://github.com/KimStebel/openwhisk-monitoring) - Example of using OpenWhisk to monitor HTTP server status.
 - [openwhisk-publisher](https://github.com/IBM-Bluemix/openwhisk-publisher) - Hosting static sites with Jekyll, Object Storage and OpenWhisk.
 - [skylink](https://github.com/IBM-Bluemix/skylink) - Connect and control a DJI drone aircraft over the Internet with OpenWhisk.
 - [BluePic](https://github.com/IBM-Swift/BluePic) - Photo sharing application for iOS using Swift Actions for the backend.
-- [owplan](https://github.com/krook/owplan) - Conference planning bot built using serverless functions.
+- [Conference Plan Bot](https://github.com/krook/owplan) - Conference planning bot built using serverless functions.
+- [Project OpenFridge](https://github.com/krook/openfridge) - Improving customer service with IoT and event-driven computing.
 - [openwhisk-nlc-action](https://github.com/pkhanal/openwhisk-nlc-action) - Docker Action with IBM Watson Natural Language Classifier to classify input text.
 - [openwhisk-slackapp](https://github.com/IBM-Bluemix/openwhisk-slackapp) - Serverless Slack app built with Slack Events API and IBM Bluemix OpenWhisk.
 - [openwhisk-visionapp](https://github.com/IBM-Bluemix/openwhisk-visionapp) - Image tagging and face detection iOS app built with IBM Bluemix OpenWhisk.
@@ -64,6 +65,7 @@
 - [OpenWhisk Editor](https://www.youtube.com/watch?v=mdq3BJAGheU&list=PLxVTI8yc_iX7QXYOpBf7B6N3-cwule1yl&index=1)- Exploring the OpenWhisk visual editor.
 - [OpenWhisk APIs with API Connect](https://www.youtube.com/watch?v=WP6D47KxSrs&index=2&list=PLxVTI8yc_iX7QXYOpBf7B6N3-cwule1yl) - Building APIs using API Connect.
 - [Building Slack Bots with OpenWhisk](https://www.youtube.com/playlist?list=PL0UyhC0D6KABYPvGroXcIeE-4x_yEbdB4) - Using OpenWhisk to build a Weather Slack Bot.
+- [Project OpenFridge](https://www.youtube.com/watch?v=0Sl4rWZYo8w) - Improving customer service with IoT and event-driven computing.
 
 ### Presentations
 
@@ -71,7 +73,9 @@
 - [The Future Of Cloud Programming](https://www.youtube.com/watch?v=sV7W-eK2x5U) - IBM Bluemix OpenWhisk Talk @ Codemotion 2016, Amsterdam
 - [Serverless Applications with Cloud Foundry and OpenWhisk](https://www.youtube.com/watch?v=kydt6JgW6_8) - Video from Cloud Foundry Summit 2016.
 - [Microservices Without Servers](http://jamesthom.as/blog/2016/09/08/microservices-without-servers/) - Slides, demo videos and sample code from conference talk on building serverless applications with OpenWhisk.
-- [Voxxed Days Presentation](https://youtu.be/SpmSu6-BOrI?t=8h9m22s) - Video recording for the Microservices Without Servers talk. 
+- [Voxxed Days Presentation](https://youtu.be/SpmSu6-BOrI?t=8h9m22s) - Video recording for the Microservices Without Servers talk.
+- [OpenWhisk - A platform for cloud native, serverless, event driven apps](http://www.slideshare.net/DanielKrook/openwhisk-a-platform-for-cloud-native-serverless-event-driven-apps) - Presentation from Cloud Native Day Toronto.
+- [OpenWhisk - A platform for cloud native, serverless, event driven apps](https://www.youtube.com/watch?v=sYRiTZ47Cao) - Video from Cloud Native Day Toronto.
 - [Official OpenWhisk Slides](http://www.slideshare.net/OpenWhisk) - Presentation decks from OpenWhisk team.
 
 ### Podcasts
