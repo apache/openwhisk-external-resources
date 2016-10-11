@@ -32,6 +32,7 @@
 - [Monitoring Apps using OpenWhisk](https://iainhouston.com/blog/openwhisk-workflow.html) - Using Openwhisk to run a Python monitoring app.
 - [Combining Twilio with Serverless Functions](https://medium.com/@osipov/polyglot-serverless-computing-using-docker-and-openwhisk-c6ff14e7ed8#.8yqcku48y) - Using Twilio APIs from OpenWhisk Actions.
 - [Jess: Serverless & GUI-less App](http://www.markwatsonatx.com/tutorial/openwhisk/serverless/2016/08/04/serverless-guiless-openwhisk.html) - Budgeting application using Twilio and OpenWhisk.
+- [Matos: An example of a serverless data pipeline](https://developer.ibm.com/openwhisk/2016/10/04/lightweight-data-pipelines-with-openwhisk/) - building a bridge between Kafka (IBM Message Hub) and OpenStack Swift API (IBM Cloud Object Storage) with OpenWhisk.
 
 
 
