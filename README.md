@@ -139,6 +139,7 @@
 - [openwhisk-apiapp](https://github.com/l2fprod/openwhisk-apiapp) - Proxies calls to OpenWhisk Actions using NGINX to enables CORS
 - [openwhisk-canirequire](https://github.com/l2fprod/openwhisk-canirequire) - Find out which NPM modules can be used in OpenWhisk.
 - [whiskify](https://github.com/jthomas/whiskify) - Utility class to help running JavaScript functions as OpenWhisk Actions.
+- [Jupyter Notebooks integration](https://gist.github.com/parente/bd0b71f15ba0b97139e5) - Jupyter Notebooks as OpenWhisk Actions
 
 ### Client Libraries
 
