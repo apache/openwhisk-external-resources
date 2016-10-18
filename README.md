@@ -82,6 +82,7 @@
 
 ### Podcasts
 
+- [What Makes IBM OpenWhisk Different? Openness](http://thenewstack.io/exploring-pros-cons-serverless-computing-ibm-openwhisk/) - The New Stack podcast with Andreas Nauerz and Michael Behrendt.
 - [The Cloudcast #252](http://www.thecloudcast.net/2016/05/the-cloudcast-252-understanding-ibm.html) - Interview with OpenWhisk team about the future of serverless computing.
 - [InfoQ Interview](https://www.infoq.com/news/2016/04/bluemix-ibm-interconnect) - Q&A with Michael Behrendt on IBM's Event-driven Programming Service.
 
