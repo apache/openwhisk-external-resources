@@ -141,6 +141,7 @@
 - [openwhisk-canirequire](https://github.com/l2fprod/openwhisk-canirequire) - Find out which NPM modules can be used in OpenWhisk.
 - [whiskify](https://github.com/jthomas/whiskify) - Utility class to help running JavaScript functions as OpenWhisk Actions.
 - [Jupyter Notebooks integration](https://gist.github.com/parente/bd0b71f15ba0b97139e5) - Jupyter Notebooks as OpenWhisk Actions
+- [logstash-input-openwhisk](https://github.com/jthomas/logstash-input-openwhisk) - Logstash plugin to drain OpenWhisk logs to Elastic Search.
 
 ### Client Libraries
 
