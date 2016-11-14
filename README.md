@@ -47,6 +47,7 @@
 - [BluePic](https://github.com/IBM-Swift/BluePic) - Photo sharing application for iOS using Swift Actions for the backend.
 - [Conference Plan Bot](https://github.com/krook/owplan) - Conference planning bot built using serverless functions.
 - [Project OpenFridge](https://github.com/krook/openfridge) - Improving customer service with IoT and event-driven computing.
+- [Project OpenChecks](https://github.com/krook/openchecks) - Processes the deposit of checks to a bank account with object storage and OCR.
 - [openwhisk-nlc-action](https://github.com/pkhanal/openwhisk-nlc-action) - Docker Action with IBM Watson Natural Language Classifier to classify input text.
 - [openwhisk-slackapp](https://github.com/IBM-Bluemix/openwhisk-slackapp) - Serverless Slack app built with Slack Events API and IBM Bluemix OpenWhisk.
 - [openwhisk-visionapp](https://github.com/IBM-Bluemix/openwhisk-visionapp) - Image tagging and face detection iOS app built with IBM Bluemix OpenWhisk.
@@ -85,6 +86,7 @@
 - [What Makes IBM OpenWhisk Different? Openness](http://thenewstack.io/exploring-pros-cons-serverless-computing-ibm-openwhisk/) - The New Stack podcast with Andreas Nauerz and Michael Behrendt.
 - [The Cloudcast #252](http://www.thecloudcast.net/2016/05/the-cloudcast-252-understanding-ibm.html) - Interview with OpenWhisk team about the future of serverless computing.
 - [InfoQ Interview](https://www.infoq.com/news/2016/04/bluemix-ibm-interconnect) - Q&A with Michael Behrendt on IBM's Event-driven Programming Service.
+- [#vSurround: Are Serverless Architectures Ready for Primetime?](https://www.youtube.com/watch?v=_Q9Q4L3IdIY) - Roundtable discussion with Daniel Krook (IBM), Adam Johnson (IOpipe), David Wells (Serverless), and Ryan Scott Brown (Red Hat) about serverless definitions, use cases, and what's to come in 2017.
 
 
 
