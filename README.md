@@ -72,13 +72,13 @@
 
 ### Presentations
 
+- [Lightning talk introducing serverless architectures and OpenWhisk](http://www.slideshare.net/DanielKrook/cloud-native-architectures-with-an-open-source-event-driven-serverless-platform) - IBM keynote at CloudNativeCon + KubeCon 2016. [Video](https://www.youtube.com/watch?v=C3PPmlUkarY) also available.
 - [Tech Talk about OpenWhisk](https://developer.ibm.com/open/events/dw-open-tech-talk-openwhisk/) - Detailed look at this new open source platform from Stephen Fink.
 - [The Future Of Cloud Programming](https://www.youtube.com/watch?v=sV7W-eK2x5U) - IBM Bluemix OpenWhisk Talk @ Codemotion 2016, Amsterdam
 - [Serverless Applications with Cloud Foundry and OpenWhisk](https://www.youtube.com/watch?v=kydt6JgW6_8) - Video from Cloud Foundry Summit 2016.
 - [Microservices Without Servers](http://jamesthom.as/blog/2016/09/08/microservices-without-servers/) - Slides, demo videos and sample code from conference talk on building serverless applications with OpenWhisk.
 - [Voxxed Days Presentation](https://youtu.be/SpmSu6-BOrI?t=8h9m22s) - Video recording for the Microservices Without Servers talk.
-- [OpenWhisk - A platform for cloud native, serverless, event driven apps](http://www.slideshare.net/DanielKrook/openwhisk-a-platform-for-cloud-native-serverless-event-driven-apps) - Presentation from Cloud Native Day Toronto.
-- [OpenWhisk - A platform for cloud native, serverless, event driven apps](https://www.youtube.com/watch?v=sYRiTZ47Cao) - Video from Cloud Native Day Toronto.
+- [OpenWhisk - A platform for cloud native, serverless, event driven apps](http://www.slideshare.net/DanielKrook/openwhisk-a-platform-for-cloud-native-serverless-event-driven-apps) - Presentation from Cloud Native Day Toronto. [Video](https://www.youtube.com/watch?v=sYRiTZ47Cao) also available.
 - [Official OpenWhisk Slides](http://www.slideshare.net/OpenWhisk) - Presentation decks from OpenWhisk team.
 
 ### Podcasts
