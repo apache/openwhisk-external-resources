@@ -136,6 +136,7 @@
 
 - [swagger-openwhisk](https://github.com/jeroiraz/swagger-openwhisk) - Generate a fully functional whisk package and actions from a swagger specification
 - [openwhisk-webpack](https://github.com/IBM-Bluemix/openwhisk-webpack) - Demonstration of using Webpack to bundle OpenWhisk Actions.
+- [openwhisk-es6-action](https://github.com/ddragosd/openwhisk-es6-action) - Sample project showing how to bundle ECMAScript6 actions including unit tests and code coverage. 
 - [hubot-ibmcloud-openwhisk](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-openwhisk) - Hubot scripts for OpenWhisk.
 - [node-red-node-openwhisk](https://www.npmjs.com/package/node-red-node-openwhisk) - Node-RED nodes for interacting with OpenWhisk platform.
 - [openwhisk-vscode](https://github.com/openwhisk/openwhisk-vscode) - Plugin for Visual Studio Code to provide OpenWhisk commands.
