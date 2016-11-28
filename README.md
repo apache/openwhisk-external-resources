@@ -72,6 +72,8 @@
 
 ### Presentations
 
+- [Event-driven and Serverless Computing with OpenWhisk](https://www.youtube.com/watch?v=rVGFll1sRY4) - Video from Serverless Conf London 2016 by Andreas Nauerz & Michael Behrendt
+- [OpenWhisk Under the Hood](https://www.youtube.com/watch?v=S-fY1exdbao) - Video from Serverless Conf London 2016 by Stephen Fink
 - [Lightning talk introducing serverless architectures and OpenWhisk](http://www.slideshare.net/DanielKrook/cloud-native-architectures-with-an-open-source-event-driven-serverless-platform) - IBM keynote at CloudNativeCon + KubeCon 2016. [Video](https://www.youtube.com/watch?v=C3PPmlUkarY) also available.
 - [Tech Talk about OpenWhisk](https://developer.ibm.com/open/events/dw-open-tech-talk-openwhisk/) - Detailed look at this new open source platform from Stephen Fink.
 - [The Future Of Cloud Programming](https://www.youtube.com/watch?v=sV7W-eK2x5U) - IBM Bluemix OpenWhisk Talk @ Codemotion 2016, Amsterdam
