@@ -57,7 +57,6 @@
 - [Mobile Services Demo](https://github.com/gconan/BluemixMobileServicesDemoApp)- Swift app that for analysing tone and posting to a slack channel.
 
 
-
 ## Media
 
 *Podcasts, videos, presentations and other content about OpenWhisk.*
@@ -148,6 +147,7 @@
 - [whiskify](https://github.com/jthomas/whiskify) - Utility class to help running JavaScript functions as OpenWhisk Actions.
 - [Jupyter Notebooks integration](https://gist.github.com/parente/bd0b71f15ba0b97139e5) - Jupyter Notebooks as OpenWhisk Actions
 - [logstash-input-openwhisk](https://github.com/jthomas/logstash-input-openwhisk) - Logstash plugin to drain OpenWhisk logs to Elastic Search.
+- [wab (whisk activation browser)](https://github.com/psuter/wab) - A terminal-mode browser for inspecting OpenWhisk activations.
 
 ### Client Libraries
 
