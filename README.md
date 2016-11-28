@@ -34,6 +34,7 @@
 - [Combining Twilio with Serverless Functions](https://medium.com/@osipov/polyglot-serverless-computing-using-docker-and-openwhisk-c6ff14e7ed8#.8yqcku48y) - Using Twilio APIs from OpenWhisk Actions.
 - [Jess: Serverless & GUI-less App](http://www.markwatsonatx.com/tutorial/openwhisk/serverless/2016/08/04/serverless-guiless-openwhisk.html) - Budgeting application using Twilio and OpenWhisk.
 - [Matos: An example of a serverless data pipeline](https://developer.ibm.com/openwhisk/2016/10/04/lightweight-data-pipelines-with-openwhisk/) - building a bridge between Kafka (IBM Message Hub) and OpenStack Swift API (IBM Cloud Object Storage) with OpenWhisk.
+- [NPM Modules in OpenWhisk](http://jamesthom.as/blog/2016/11/28/npm-modules-in-openwhisk/) - Using NPM modules in OpenWhisk Actions. 
 
 
 
