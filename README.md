@@ -81,6 +81,7 @@
 - [Microservices Without Servers](http://jamesthom.as/blog/2016/09/08/microservices-without-servers/) - Slides, demo videos and sample code from conference talk on building serverless applications with OpenWhisk.
 - [Voxxed Days Presentation](https://youtu.be/SpmSu6-BOrI?t=8h9m22s) - Video recording for the Microservices Without Servers talk.
 - [OpenWhisk - A platform for cloud native, serverless, event driven apps](http://www.slideshare.net/DanielKrook/openwhisk-a-platform-for-cloud-native-serverless-event-driven-apps) - Presentation from Cloud Native Day Toronto. [Video](https://www.youtube.com/watch?v=sYRiTZ47Cao) also available.
+- [The Serverless Paradigm, OpenWhisk and FIWARE](http://www.slideshare.net/AlexGlikson/the-serverless-paradigm-openwhisk-and-fiware) - Presentation at the [FIWARE Summit](https://www.fiware.org/summit/) by Alex Glikson.
 - [Official OpenWhisk Slides](http://www.slideshare.net/OpenWhisk) - Presentation decks from OpenWhisk team.
 
 ### Podcasts
