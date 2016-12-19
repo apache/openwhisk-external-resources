@@ -34,7 +34,8 @@
 - [Combining Twilio with Serverless Functions](https://medium.com/@osipov/polyglot-serverless-computing-using-docker-and-openwhisk-c6ff14e7ed8#.8yqcku48y) - Using Twilio APIs from OpenWhisk Actions.
 - [Jess: Serverless & GUI-less App](http://www.markwatsonatx.com/tutorial/openwhisk/serverless/2016/08/04/serverless-guiless-openwhisk.html) - Budgeting application using Twilio and OpenWhisk.
 - [Matos: An example of a serverless data pipeline](https://developer.ibm.com/openwhisk/2016/10/04/lightweight-data-pipelines-with-openwhisk/) - building a bridge between Kafka (IBM Message Hub) and OpenStack Swift API (IBM Cloud Object Storage) with OpenWhisk.
-- [NPM Modules in OpenWhisk](http://jamesthom.as/blog/2016/11/28/npm-modules-in-openwhisk/) - Using NPM modules in OpenWhisk Actions. 
+- [NPM Modules in OpenWhisk](http://jamesthom.as/blog/2016/11/28/npm-modules-in-openwhisk/) - Using NPM modules in OpenWhisk Actions.
+- [Updates to OpenWhisk Node.js actions](https://medium.com/openwhisk/updates-to-openwhisk-node-js-actions-ed5556cd5ae9) - Recent changes including deprecation for the GA release.
 
 
 
@@ -65,10 +66,11 @@
 
 - [Creating OpenWhisk Actions](https://www.youtube.com/watch?v=HEw44Eg-l88) - Running Actions with OpenWhisk
 - [Automating Actions](https://www.youtube.com/watch?v=4jRigiMpZF4) - Using Triggers with Actions.
-- [OpenWhisk Editor](https://www.youtube.com/watch?v=mdq3BJAGheU&list=PLxVTI8yc_iX7QXYOpBf7B6N3-cwule1yl&index=1)- Exploring the OpenWhisk visual editor.
+- [OpenWhisk Editor](https://www.youtube.com/watch?v=mdq3BJAGheU&list=PLxVTI8yc_iX7QXYOpBf7B6N3-cwule1yl&index=1) - Exploring the OpenWhisk visual editor.
 - [OpenWhisk APIs with API Connect](https://www.youtube.com/watch?v=WP6D47KxSrs&index=2&list=PLxVTI8yc_iX7QXYOpBf7B6N3-cwule1yl) - Building APIs using API Connect.
 - [Building Slack Bots with OpenWhisk](https://www.youtube.com/playlist?list=PL0UyhC0D6KABYPvGroXcIeE-4x_yEbdB4) - Using OpenWhisk to build a Weather Slack Bot.
 - [Project OpenFridge](https://www.youtube.com/watch?v=0Sl4rWZYo8w) - Improving customer service with IoT and event-driven computing.
+- [Build a cloud native app with Apache OpenWhisk](https://developer.ibm.com/tv/build-a-cloud-native-app-with-apache-openwhisk/) - An overview of serverless architectures, introduction to the OpenWhisk programming model, and deployment of an OpenWhisk application on IBM Bluemix.
 
 ### Presentations
 
@@ -139,7 +141,7 @@
 
 - [swagger-openwhisk](https://github.com/jeroiraz/swagger-openwhisk) - Generate a fully functional whisk package and actions from a swagger specification
 - [openwhisk-webpack](https://github.com/IBM-Bluemix/openwhisk-webpack) - Demonstration of using Webpack to bundle OpenWhisk Actions.
-- [openwhisk-es6-action](https://github.com/ddragosd/openwhisk-es6-action) - Sample project showing how to bundle ECMAScript6 actions including unit tests and code coverage. 
+- [openwhisk-es6-action](https://github.com/ddragosd/openwhisk-es6-action) - Sample project showing how to bundle ECMAScript6 actions including unit tests and code coverage.
 - [hubot-ibmcloud-openwhisk](https://github.com/ibm-cloud-solutions/hubot-ibmcloud-openwhisk) - Hubot scripts for OpenWhisk.
 - [node-red-node-openwhisk](https://www.npmjs.com/package/node-red-node-openwhisk) - Node-RED nodes for interacting with OpenWhisk platform.
 - [openwhisk-vscode](https://github.com/openwhisk/openwhisk-vscode) - Plugin for Visual Studio Code to provide OpenWhisk commands.
