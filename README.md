@@ -22,6 +22,7 @@
 ## Articles
 
 *Articles, tutorials and blogs on building serverless applications using OpenWhisk.*
+- [OpenWhisk and The Serverless Framework](https://medium.com/openwhisk/openwhisk-and-the-serverless-framework-b05ce569137a#.n1lyyw17v) - Build serverless apps with OpenWhisk and The Serverless Framework.
 - [Uncovering the magic: How serverless platforms really work!](https://medium.com/openwhisk/uncovering-the-magic-how-serverless-platforms-really-work-3cb127b05f71) - A step by step guide through the inner guts of OpenWhisk.
 - [What makes serverless architectures so attractive?](https://developer.ibm.com/opentech/2016/09/06/what-makes-serverless-attractive/) - Serverless is the hottest trend in cloud this year, and for good reason.
 - [OpenWhisk Planner Bot](https://developer.ibm.com/open/2016/05/13/openwhisk-planner-bot/) - Plan your conference schedule with a serverless recommendation bot
@@ -71,6 +72,7 @@
 - [Building Slack Bots with OpenWhisk](https://www.youtube.com/playlist?list=PL0UyhC0D6KABYPvGroXcIeE-4x_yEbdB4) - Using OpenWhisk to build a Weather Slack Bot.
 - [Project OpenFridge](https://www.youtube.com/watch?v=0Sl4rWZYo8w) - Improving customer service with IoT and event-driven computing.
 - [Build a cloud native app with Apache OpenWhisk](https://developer.ibm.com/tv/build-a-cloud-native-app-with-apache-openwhisk/) - An overview of serverless architectures, introduction to the OpenWhisk programming model, and deployment of an OpenWhisk application on IBM Bluemix.
+- [Using Serverless Framework & OpenWhisk](https://www.youtube.com/watch?v=GJY10W98Itc&t=3s) - Using the framework to build OpenWhisk applications.
 
 ### Presentations
 
@@ -85,6 +87,7 @@
 - [OpenWhisk - A platform for cloud native, serverless, event driven apps](http://www.slideshare.net/DanielKrook/openwhisk-a-platform-for-cloud-native-serverless-event-driven-apps) - Presentation from Cloud Native Day Toronto. [Video](https://www.youtube.com/watch?v=sYRiTZ47Cao) also available.
 - [The Serverless Paradigm, OpenWhisk and FIWARE](http://www.slideshare.net/AlexGlikson/the-serverless-paradigm-openwhisk-and-fiware) - Presentation at the [FIWARE Summit](https://www.fiware.org/summit/) by Alex Glikson (video [here](https://www.youtube.com/watch?v=_JT63orNAsE)).
 - [Official OpenWhisk Slides](http://www.slideshare.net/OpenWhisk) - Presentation decks from OpenWhisk team.
+- [Multi-provider Serverless Apps](https://speakerdeck.com/jthomas/taming-serverless-dragons-multi-provider-serverless-apps) - Presentation at [Serverless LDN](https://serverless.london/). [Video](https://www.twitch.tv/videos/119142073).
 
 ### Podcasts
 
@@ -119,8 +122,9 @@
 - [Scala](https://developer.ibm.com/openwhisk/2016/07/26/openwhisk-actions-scala/) - Example article with Github code for running OpenWhisk Actions in Scala.
 - [Haskell](https://github.com/rainbyte/openwhisk-wrapper) - Haskell-based OpenWhisk services
 - [Docker Examples](https://github.com/gekola/openwhisk_docker_samples) - Run Clojure, Erlang, Ruby and Rust Actions on OpenWhisk using Docker.
-- [Go](http://jamesthom.as/blog/2016/06/21/serverless-go-actions/) - Blog post and library for building Go language Actions.
-
+- [Go](http://jamesthom.as/blog/2017/01/17/openwhisk-and-go/) - Blog post and library for building Go language Actions.
+- [Rust](http://jamesthom.as/blog/2017/01/18/openwhisk-and-rust/) - Blog post and library for building Rust language Actions.
+- [Docker Actions](http://jamesthom.as/blog/2017/01/16/openwhisk-docker-actions/) - Explanation of updated Docker Action runtime.
 
 
 ## Feed Providers
@@ -164,5 +168,5 @@
 
 - [GitHub Issues for OpenWhisk](https://github.com/openwhisk/openwhisk/issues).
 - [Stack Overflow #openwhisk](http://stackoverflow.com/questions/tagged/openwhisk).
-- [Slack Group #openwhisk](https://developer.ibm.com/open/slackin/).
+- [Slack Group #openwhisk](http://slack.openwhisk.org/).
 - Twitter [@openwhisk](https://twitter.com/openwhisk)
