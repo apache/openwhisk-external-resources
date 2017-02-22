@@ -8,20 +8,20 @@
 
 ## Contents
 
+- [Tutorials](#tutorials)
+- [Sample Applications](#sample-applications)
 - [Articles](#articles)
-- [Applications](#applications)
 - [Media](#media)
-- [Workshops](#workshops)
 - [Runtimes](#runtimes)
 - [Feed Providers](#feed-providers)
 - [Utilities](#utilities)
 - [Support](#support)
 
 
-
 ## Articles
 
 *Articles, tutorials and blogs on building serverless applications using OpenWhisk.*
+- [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de) - describes a sample application for a flexible edge platform using OpenWhisk, Node-RED and resin.io to manage provisioning and lifecycle of Docker-based applications on a fleet of IoT gateways, such as raspberry pi.
 - [OpenWhisk and The Serverless Framework](https://medium.com/openwhisk/openwhisk-and-the-serverless-framework-b05ce569137a#.n1lyyw17v) - Build serverless apps with OpenWhisk and The Serverless Framework.
 - [Uncovering the magic: How serverless platforms really work!](https://medium.com/openwhisk/uncovering-the-magic-how-serverless-platforms-really-work-3cb127b05f71) - A step by step guide through the inner guts of OpenWhisk.
 - [What makes serverless architectures so attractive?](https://developer.ibm.com/opentech/2016/09/06/what-makes-serverless-attractive/) - Serverless is the hottest trend in cloud this year, and for good reason.
@@ -39,11 +39,24 @@
 - [Updates to OpenWhisk Node.js actions](https://medium.com/openwhisk/updates-to-openwhisk-node-js-actions-ed5556cd5ae9) - Recent changes including deprecation for the GA release.
 
 
+## Tutorials
 
-## Applications
+*Tutorials and other material to help you learn OpenWhisk*
+
+- [Official OpenWhisk Tutorial](https://github.com/openwhisk/openwhisk-tutorial) - Interactive tutorials for learning how to use OpenWhisk.
+- [openwhisk-workshop](https://www.npmjs.com/package/openwhisk-workshop) - This workshop will help you learn OpenWhisk and introduce you to the concepts behind the platform using NodeSchool toolchain.
+
+
+## Sample Applications
 
 *Sample open-source projects built using the OpenWhisk platform*
 
+- [OpenWhisk 101 - Message Hub and Kafka Data Processing](https://github.com/IBM/openwhisk-data-processing-message-hub) - Example of using OpenWhisk with Message Hub and Kafka to consume and publish messages.
+- [Transit IoT](https://medium.com/openwhisk/transit-flexible-pipeline-for-iot-data-with-bluemix-and-openwhisk-4824cf20f1e0) - Comprehensive example of using OpenWhisk for IoT data processing that uses Docker, Node-RED, Message Hub (Kafka based), Object Storage, Spark and Bluemix Data Science Experience services for data analytics.
+- [Logistics Wizard](https://www.ibm.com/blogs/bluemix/2017/02/microservices-multi-compute-approach-using-cloud-foundry-openwhisk/) is an enterprise-grade sample application which leverages OpenWhisk and CloudFoundry to build 12-factor style application. It is a smart supply chain management solution that aims to simulate an environment running an ERP system.
+- [Web Actions](https://medium.com/openwhisk/web-actions-serverless-web-apps-with-openwhisk-f21db459f9ba) - This sample shows hot to use OpenWhisk to build a complete Web App.
+- [Dark vision](https://github.com/IBM-Bluemix/openwhisk-darkvisionapp) - application that shows how to use OpenWhisk, Cloudant, Watson Visual Recognition, Object Storage to process video frames, tag and recognize scenes.
+- [HTTP handlers with OpenWhisk](https://medium.com/openwhisk/serverless-http-handlers-with-openwhisk-90a986cc7cdd) - demonstrates the use of OpenWhisk web actions to write HTTP handlers.
 - [openwhisk-monitoring](https://github.com/KimStebel/openwhisk-monitoring) - Example of using OpenWhisk to monitor HTTP server status.
 - [openwhisk-publisher](https://github.com/IBM-Bluemix/openwhisk-publisher) - Hosting static sites with Jekyll, Object Storage and OpenWhisk.
 - [skylink](https://github.com/IBM-Bluemix/skylink) - Connect and control a DJI drone aircraft over the Internet with OpenWhisk.
@@ -65,6 +78,7 @@
 
 ### Videos
 
+- [OpenWhisk YouTube Channel](https://www.youtube.com/channel/UCbzgShnQk8F43NKsvEYA1SA) - Screencast demos, recorded presentations and other videos.
 - [Creating OpenWhisk Actions](https://www.youtube.com/watch?v=HEw44Eg-l88) - Running Actions with OpenWhisk
 - [Automating Actions](https://www.youtube.com/watch?v=4jRigiMpZF4) - Using Triggers with Actions.
 - [OpenWhisk Editor](https://www.youtube.com/watch?v=mdq3BJAGheU&list=PLxVTI8yc_iX7QXYOpBf7B6N3-cwule1yl&index=1) - Exploring the OpenWhisk visual editor.
@@ -97,13 +111,6 @@
 - [#vSurround: Are Serverless Architectures Ready for Primetime?](https://www.youtube.com/watch?v=_Q9Q4L3IdIY) - Roundtable discussion with Daniel Krook (IBM), Adam Johnson (IOpipe), David Wells (Serverless), and Ryan Scott Brown (Red Hat) about serverless definitions, use cases, and what's to come in 2017.
 
 
-
-## Workshops
-
-*Tutorials and other material to help you learn OpenWhisk*
-
-- [Official OpenWhisk Tutorial](https://github.com/openwhisk/openwhisk-tutorial) - Interactive tutorials for learning how to use OpenWhisk.
-- [openwhisk-workshop](https://www.npmjs.com/package/openwhisk-workshop) - Command-line utility to introduce the concepts behind the platform using NodeSchool toolchain.
 
 ## Runtimes
 
