@@ -43,8 +43,8 @@
 
 *Tutorials and other material to help you learn OpenWhisk*
 
-- [Official OpenWhisk Tutorial](https://github.com/openwhisk/openwhisk-tutorial) - Interactive tutorials for learning how to use OpenWhisk.
-- [openwhisk-workshop](https://www.npmjs.com/package/openwhisk-workshop) - This workshop will help you learn OpenWhisk and introduce you to the concepts behind the platform using NodeSchool toolchain.
+- [Official OpenWhisk Tutorial](https://github.com/openwhisk/openwhisk-tutorial) - Interactive tutorial for learning how to use OpenWhisk.
+- [OpenWhisk-workshop](https://www.npmjs.com/package/openwhisk-workshop) - This workshop will help you learn OpenWhisk and introduce you to the concepts behind the platform using NodeSchool toolchain.
 
 
 ## Sample Applications
@@ -53,10 +53,10 @@
 
 - [OpenWhisk 101 - Message Hub and Kafka Data Processing](https://github.com/IBM/openwhisk-data-processing-message-hub) - Example of using OpenWhisk with Message Hub and Kafka to consume and publish messages.
 - [Transit IoT](https://medium.com/openwhisk/transit-flexible-pipeline-for-iot-data-with-bluemix-and-openwhisk-4824cf20f1e0) - Comprehensive example of using OpenWhisk for IoT data processing that uses Docker, Node-RED, Message Hub (Kafka based), Object Storage, Spark and Bluemix Data Science Experience services for data analytics.
-- [Logistics Wizard](https://www.ibm.com/blogs/bluemix/2017/02/microservices-multi-compute-approach-using-cloud-foundry-openwhisk/) is an enterprise-grade sample application which leverages OpenWhisk and CloudFoundry to build 12-factor style application. It is a smart supply chain management solution that aims to simulate an environment running an ERP system.
-- [Web Actions](https://medium.com/openwhisk/web-actions-serverless-web-apps-with-openwhisk-f21db459f9ba) - This sample shows hot to use OpenWhisk to build a complete Web App.
-- [Dark vision](https://github.com/IBM-Bluemix/openwhisk-darkvisionapp) - application that shows how to use OpenWhisk, Cloudant, Watson Visual Recognition, Object Storage to process video frames, tag and recognize scenes.
-- [HTTP handlers with OpenWhisk](https://medium.com/openwhisk/serverless-http-handlers-with-openwhisk-90a986cc7cdd) - demonstrates the use of OpenWhisk web actions to write HTTP handlers.
+- [Logistics Wizard](https://www.ibm.com/blogs/bluemix/2017/02/microservices-multi-compute-approach-using-cloud-foundry-openwhisk/) is an enterprise-grade sample application which leverages OpenWhisk and CloudFoundry to build 12-factor style applications. It is a smart supply chain management solution that aims to simulate an environment running an ERP system.
+- [Web Actions](https://medium.com/openwhisk/web-actions-serverless-web-apps-with-openwhisk-f21db459f9ba) - This sample shows how to use OpenWhisk to build a complete Web App.
+- [Dark vision](https://github.com/IBM-Bluemix/openwhisk-darkvisionapp) - Application that shows how to use OpenWhisk, Cloudant, Watson Visual Recognition, Object Storage to process video frames, tag and recognize scenes.
+- [HTTP handlers with OpenWhisk](https://medium.com/openwhisk/serverless-http-handlers-with-openwhisk-90a986cc7cdd) - Demonstrates the use of OpenWhisk web actions to write HTTP handlers.
 - [openwhisk-monitoring](https://github.com/KimStebel/openwhisk-monitoring) - Example of using OpenWhisk to monitor HTTP server status.
 - [openwhisk-publisher](https://github.com/IBM-Bluemix/openwhisk-publisher) - Hosting static sites with Jekyll, Object Storage and OpenWhisk.
 - [skylink](https://github.com/IBM-Bluemix/skylink) - Connect and control a DJI drone aircraft over the Internet with OpenWhisk.
