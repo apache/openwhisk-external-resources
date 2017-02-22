@@ -4,7 +4,7 @@
 
 *OpenWhisk is a cloud-first distributed event-based programming service. It provides a programming model to upload event handlers to a cloud service, and register the handlers to respond to various events.*
 
-*Learn more at [http://openwhisk.org](http://openwhisk.org) or try it on [IBM Bluemix OpenWhisk](https://bluemix.net).*
+*Learn more at [http://openwhisk.org](http://openwhisk.org) or try it on [IBM Bluemix OpenWhisk](https://bluemix.net).*
 
 ## Contents
 
@@ -24,6 +24,7 @@
 - [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de) - describes a sample application for a flexible edge platform using OpenWhisk, Node-RED and resin.io to manage provisioning and lifecycle of Docker-based applications on a fleet of IoT gateways, such as raspberry pi.
 - [OpenWhisk and The Serverless Framework](https://medium.com/openwhisk/openwhisk-and-the-serverless-framework-b05ce569137a#.n1lyyw17v) - Build serverless apps with OpenWhisk and The Serverless Framework.
 - [Uncovering the magic: How serverless platforms really work!](https://medium.com/openwhisk/uncovering-the-magic-how-serverless-platforms-really-work-3cb127b05f71) - A step by step guide through the inner guts of OpenWhisk.
+- [HTTP handlers with OpenWhisk](https://medium.com/openwhisk/serverless-http-handlers-with-openwhisk-90a986cc7cdd) - This blog post demonstrates the use of OpenWhisk web actions to write HTTP handlers.
 - [What makes serverless architectures so attractive?](https://developer.ibm.com/opentech/2016/09/06/what-makes-serverless-attractive/) - Serverless is the hottest trend in cloud this year, and for good reason.
 - [OpenWhisk Planner Bot](https://developer.ibm.com/open/2016/05/13/openwhisk-planner-bot/) - Plan your conference schedule with a serverless recommendation bot
 - [Building a Phrase Translator](http://www.ibm.com/developerworks/cloud/library/cl-openwhisk-node-bluemix-user-facing-app/index.html) - Implementing a user interface with serverless functions.
@@ -53,10 +54,9 @@
 
 - [OpenWhisk 101 - Message Hub and Kafka Data Processing](https://github.com/IBM/openwhisk-data-processing-message-hub) - Example of using OpenWhisk with Message Hub and Kafka to consume and publish messages.
 - [Transit IoT](https://medium.com/openwhisk/transit-flexible-pipeline-for-iot-data-with-bluemix-and-openwhisk-4824cf20f1e0) - Comprehensive example of using OpenWhisk for IoT data processing that uses Docker, Node-RED, Message Hub (Kafka based), Object Storage, Spark and Bluemix Data Science Experience services for data analytics.
-- [Logistics Wizard](https://www.ibm.com/blogs/bluemix/2017/02/microservices-multi-compute-approach-using-cloud-foundry-openwhisk/) is an enterprise-grade sample application which leverages OpenWhisk and CloudFoundry to build 12-factor style applications. It is a smart supply chain management solution that aims to simulate an environment running an ERP system.
-- [Web Actions](https://medium.com/openwhisk/web-actions-serverless-web-apps-with-openwhisk-f21db459f9ba) - This sample shows how to use OpenWhisk to build a complete Web App.
+- [Logistics Wizard](https://github.com/IBM-Bluemix/logistics-wizard) - Enterprise-grade sample application which leverages OpenWhisk and CloudFoundry to build 12-factor style applications. It is a smart supply chain management solution that aims to simulate an environment running an ERP system. Also see [related blog post](https://www.ibm.com/blogs/bluemix/2017/02/microservices-multi-compute-approach-using-cloud-foundry-openwhisk/).
+- [Web Actions](https://github.com/openwhisk/openwhisk) - This sample shows how to use OpenWhisk to build a complete Web App. See [related blog post](https://medium.com/openwhisk/web-actions-serverless-web-apps-with-openwhisk-f21db459f9ba).
 - [Dark vision](https://github.com/IBM-Bluemix/openwhisk-darkvisionapp) - Application that shows how to use OpenWhisk, Cloudant, Watson Visual Recognition, Object Storage to process video frames, tag and recognize scenes.
-- [HTTP handlers with OpenWhisk](https://medium.com/openwhisk/serverless-http-handlers-with-openwhisk-90a986cc7cdd) - Demonstrates the use of OpenWhisk web actions to write HTTP handlers.
 - [openwhisk-monitoring](https://github.com/KimStebel/openwhisk-monitoring) - Example of using OpenWhisk to monitor HTTP server status.
 - [openwhisk-publisher](https://github.com/IBM-Bluemix/openwhisk-publisher) - Hosting static sites with Jekyll, Object Storage and OpenWhisk.
 - [skylink](https://github.com/IBM-Bluemix/skylink) - Connect and control a DJI drone aircraft over the Internet with OpenWhisk.
@@ -67,7 +67,7 @@
 - [openwhisk-nlc-action](https://github.com/pkhanal/openwhisk-nlc-action) - Docker Action with IBM Watson Natural Language Classifier to classify input text.
 - [openwhisk-slackapp](https://github.com/IBM-Bluemix/openwhisk-slackapp) - Serverless Slack app built with Slack Events API and IBM Bluemix OpenWhisk.
 - [openwhisk-visionapp](https://github.com/IBM-Bluemix/openwhisk-visionapp) - Image tagging and face detection iOS app built with IBM Bluemix OpenWhisk.
-- [openwhisk-jq](https://github.com/ibmets/openwhisk-jq) - OpenWhisk Action wrapping the JQ command-line utility for JSON filtering.
+- [openwhisk-jq](https://github.com/ibmets/openwhisk-jq) - OpenWhisk Action wrapping the JQ command-line utility for JSON filtering.
 - [Personality Analysis](https://github.com/iwinoto/openwhisk-demo-personalityanalysis) - Analysing political speeches using IBM Watson.
 - [Mobile Services Demo](https://github.com/gconan/BluemixMobileServicesDemoApp)- Swift app that for analysing tone and posting to a slack channel.
 
@@ -141,7 +141,7 @@
 - [openwhisk-package-imap](https://github.com/tareqmamari/openwhisk-package-imap) - OpenWhisk Package to expose IMAP emails as a trigger feed.
 - [openwhisk-package-template](https://github.com/openwhisk/openwhisk-package-template) - This is a template to be use when creating new packages for OpenWhisk.
 - [openwhisk-package-iot](https://github.com/tareqmamari/openwhisk-package-iot) - Package including all actions and feeds of Watson IoT Platform.
-- [openwhisk-mqtt-feed](https://github.com/jthomas/openwhisk_mqtt_feed) - MQTT package for OpenWhisk, provides a topic subscriber feed.
+- [openwhisk-mqtt-feed](https://github.com/jthomas/openwhisk_mqtt_feed) - MQTT package for OpenWhisk, provides a topic subscriber feed.
 - [openwhisk-package-mqtt-watson](https://github.com/krook/openwhisk-package-mqtt-watson) - OpenWhisk MQTT Package for Watson IoT service.
 
 
@@ -158,7 +158,7 @@
 - [openwhisk-vscode](https://github.com/openwhisk/openwhisk-vscode) - Plugin for Visual Studio Code to provide OpenWhisk commands.
 - [openwhisk-apiapp](https://github.com/l2fprod/openwhisk-apiapp) - Proxies calls to OpenWhisk Actions using NGINX to enables CORS
 - [openwhisk-canirequire](https://github.com/l2fprod/openwhisk-canirequire) - Find out which NPM modules can be used in OpenWhisk.
-- [whiskify](https://github.com/jthomas/whiskify) - Utility class to help running JavaScript functions as OpenWhisk Actions.
+- [whiskify](https://github.com/jthomas/whiskify) - Utility class to help running JavaScript functions as OpenWhisk Actions.
 - [Jupyter Notebooks integration](https://gist.github.com/parente/bd0b71f15ba0b97139e5) - Jupyter Notebooks as OpenWhisk Actions
 - [logstash-input-openwhisk](https://github.com/jthomas/logstash-input-openwhisk) - Logstash plugin to drain OpenWhisk logs to Elastic Search.
 - [wab (whisk activation browser)](https://github.com/psuter/wab) - A terminal-mode browser for inspecting OpenWhisk activations.
