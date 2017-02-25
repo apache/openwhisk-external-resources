@@ -70,6 +70,7 @@
 - [openwhisk-jq](https://github.com/ibmets/openwhisk-jq) - OpenWhisk Action wrapping the JQ command-line utility for JSON filtering.
 - [Personality Analysis](https://github.com/iwinoto/openwhisk-demo-personalityanalysis) - Analysing political speeches using IBM Watson.
 - [Mobile Services Demo](https://github.com/gconan/BluemixMobileServicesDemoApp)- Swift app that for analysing tone and posting to a slack channel.
+- [Drink Chooser](https://github.com/SwiftOnTheServer/DrinkChooser)- Example Swift app storing to & reading from Redis recommending a drink to consume.
 
 
 ## Media
