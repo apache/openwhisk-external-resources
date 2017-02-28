@@ -38,6 +38,18 @@
 - [Matos: An example of a serverless data pipeline](https://developer.ibm.com/openwhisk/2016/10/04/lightweight-data-pipelines-with-openwhisk/) - building a bridge between Kafka (IBM Message Hub) and OpenStack Swift API (IBM Cloud Object Storage) with OpenWhisk.
 - [NPM Modules in OpenWhisk](http://jamesthom.as/blog/2016/11/28/npm-modules-in-openwhisk/) - Using NPM modules in OpenWhisk Actions.
 - [Updates to OpenWhisk Node.js actions](https://medium.com/openwhisk/updates-to-openwhisk-node-js-actions-ed5556cd5ae9) - Recent changes including deprecation for the GA release.
+- [Another OpenWhisk Cron Example - the Blog Nag](https://www.raymondcamden.com/2017/02/21/another-openwhisk-cron-example-the-blog-nag) - Another demo involving Cron.
+- [Building a Form Handler Service in OpenWhisk](https://www.raymondcamden.com/2017/01/25/building-a-form-handler-service-in-openwhisk) and [Building a Form Handler Service in OpenWhisk - Part Two](https://www.raymondcamden.com/2017/02/15/building-a-form-handler-service-in-openwhisk-part-two) - two articles demonstrating using OpenWhisk to handle form submissions.
+- [Collecting 911 Data with OpenWhisk Cron Triggers](https://www.raymondcamden.com/2017/02/14/collecting-911-data-openwhisk-cron-triggers) - An example of a Cron-based service.
+- [Serverless and Persistence](https://www.raymondcamden.com/2017/02/09/serverless-and-persistence) - Some thoughts on persistence in a serverless environment.
+- [Working with OpenWhisk Triggers](https://www.raymondcamden.com/2017/02/02/working-with-openwhisk-triggers) - A look at trigger/rule support in OpenWhisk.
+- [Using Packages in OpenWhisk](https://www.raymondcamden.com/2017/01/31/using-packages-in-openwhisk) - A look at package support in OpenWhisk.
+- [Talking to your Bot in OpenWhisk](https://www.raymondcamden.com/2017/01/26/talking-to-your-bot-on-openwhisk) - A simple bot demo for OpenWhisk.
+- [All My Friends are Superheroes](https://www.raymondcamden.com/2017/01/18/all-my-friends-are-superheroes) - A demo of using the Marvel API with OpenWhisk.
+- [Creating Zipped Actions in OpenWhisk](https://www.raymondcamden.com/2017/01/10/creating-packaged-actions-in-openwhisk) - How to use zipped actions with OpenWhisk.
+- [Quick Tip for Testing OpenWhisk Actions Locally](https://www.raymondcamden.com/2017/01/09/quick-tip-for-testing-openwhisk-actions-locally) - A simple script/method to test OpenWhisk actions locally.
+- [An Example of an OpenWhisk Sequence](https://www.raymondcamden.com/2017/01/06/an-example-of-an-openwhisk-sequence) - A quick tutorial on using sequences with OpenWhisk.
+- [Building a Serverless API Proxy with OpenWhisk](https://www.raymondcamden.com/2017/01/02/building-a-serverless-api-proxy-with-openwhisk) - a look at how to build an API proxy with OpenWhisk.
 
 
 ## Tutorials
