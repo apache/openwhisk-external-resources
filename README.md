@@ -49,7 +49,8 @@
 - [Creating Zipped Actions in OpenWhisk](https://www.raymondcamden.com/2017/01/10/creating-packaged-actions-in-openwhisk) - How to use zipped actions with OpenWhisk.
 - [Quick Tip for Testing OpenWhisk Actions Locally](https://www.raymondcamden.com/2017/01/09/quick-tip-for-testing-openwhisk-actions-locally) - A simple script/method to test OpenWhisk actions locally.
 - [An Example of an OpenWhisk Sequence](https://www.raymondcamden.com/2017/01/06/an-example-of-an-openwhisk-sequence) - A quick tutorial on using sequences with OpenWhisk.
-- [Building a Serverless API Proxy with OpenWhisk](https://www.raymondcamden.com/2017/01/02/building-a-serverless-api-proxy-with-openwhisk) - a look at how to build an API proxy with OpenWhisk.
+- [Building a Serverless API Proxy with OpenWhisk](https://www.raymondcamden.com/2017/01/02/building-a-serverless-api-proxy-with-openwhisk) - A look at how to build an API proxy with OpenWhisk.
+- [Lastversion.info](http://alexanderfortin.tumblr.com/post/157820499911/lastversion-a-go-serverless-proof-of-concept) - An HTTP service to fetch latest stable version of OpenSource projects, written in Go and running as OpenWhisk action. See the releated blog post on [how to use Docker to create a Go-based OpenWhisk action](http://jamesthom.as/blog/2017/01/16/openwhisk-docker-actions/)
 
 
 ## Tutorials
