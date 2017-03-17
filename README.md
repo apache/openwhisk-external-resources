@@ -21,7 +21,9 @@
 ## Articles
 
 *Articles, tutorials and blogs on building serverless applications using OpenWhisk.*
-- [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de) - describes a sample application for a flexible edge platform using OpenWhisk, Node-RED and resin.io to manage provisioning and lifecycle of Docker-based applications on a fleet of IoT gateways, such as raspberry pi.
+- [Using the new OpenWhisk Debugger](https://medium.com/openwhisk/using-the-new-openwhisk-debugger-b1b57d0d7d8b) - A step by step guide on using the new OpenWhisk debugger ‘wskdb’.
+- [“Advanced debugging of OpenWhisk actions”](https://medium.com/openwhisk/advanced-debugging-of-openwhisk-actions-518414636932) describes how to test an Apache OpenWhisk action locally using Docker and a helper Python script.
+- [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de) - Describes a sample application for a flexible edge platform using OpenWhisk, Node-RED and resin.io to manage provisioning and lifecycle of Docker-based applications on a fleet of IoT gateways, such as raspberry pi.
 - [OpenWhisk and The Serverless Framework](https://medium.com/openwhisk/openwhisk-and-the-serverless-framework-b05ce569137a#.n1lyyw17v) - Build serverless apps with OpenWhisk and The Serverless Framework.
 - [Uncovering the magic: How serverless platforms really work!](https://medium.com/openwhisk/uncovering-the-magic-how-serverless-platforms-really-work-3cb127b05f71) - A step by step guide through the inner guts of OpenWhisk.
 - [HTTP handlers with OpenWhisk](https://medium.com/openwhisk/serverless-http-handlers-with-openwhisk-90a986cc7cdd) - This blog post demonstrates the use of OpenWhisk web actions to write HTTP handlers.
@@ -65,8 +67,11 @@
 
 *Sample open-source projects built using the OpenWhisk platform*
 
+- [OpenWhisk 101 - Your first Action, Trigger, and Rule](https://github.com/IBM/openwhisk-action-trigger-rule) - Simple Hello World style demo showing OpenWhisk actions, triggers, and rules.
 - [OpenWhisk 101 - Message Hub and Kafka Data Processing](https://github.com/IBM/openwhisk-data-processing-message-hub) - Example of using OpenWhisk with Message Hub and Kafka to consume and publish messages.
+- [OpenWhisk 101 - OpenWhisk and Serverless APIs](https://github.com/IBM/openwhisk-serverless-apis)
 - [Transit IoT](https://medium.com/openwhisk/transit-flexible-pipeline-for-iot-data-with-bluemix-and-openwhisk-4824cf20f1e0) - Comprehensive example of using OpenWhisk for IoT data processing that uses Docker, Node-RED, Message Hub (Kafka based), Object Storage, Spark and Bluemix Data Science Experience services for data analytics.
+- [Emoting](https://github.com/l2fprod/openwhisk-emoting) - Sample “user feedback” app that uses OpenWhisk actions via REST API with pages hosted on GitHub and database in Cloudant.
 - [Logistics Wizard](https://github.com/IBM-Bluemix/logistics-wizard) - Enterprise-grade sample application which leverages OpenWhisk and CloudFoundry to build 12-factor style applications. It is a smart supply chain management solution that aims to simulate an environment running an ERP system. Also see [related blog post](https://www.ibm.com/blogs/bluemix/2017/02/microservices-multi-compute-approach-using-cloud-foundry-openwhisk/).
 - [Web Actions](https://github.com/openwhisk/openwhisk) - This sample shows how to use OpenWhisk to build a complete Web App. See [related blog post](https://medium.com/openwhisk/web-actions-serverless-web-apps-with-openwhisk-f21db459f9ba).
 - [Dark vision](https://github.com/IBM-Bluemix/openwhisk-darkvisionapp) - Application that shows how to use OpenWhisk, Cloudant, Watson Visual Recognition, Object Storage to process video frames, tag and recognize scenes.
@@ -133,7 +138,7 @@
 
 ### Platform Runtimes
 
-- [JavaScript](https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions) - OpenWhisk runtime for Node.js (v12 & v6).
+- [JavaScript](https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-and-invoking-javascript-actions) - OpenWhisk runtime for Node.js (v6).
 - [Java](https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-java-actions) - OpenWhisk runtime for Java 8.
 - [Python](https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-python-actions) - OpenWhisk runtime for Python 2.7
 - [Swift](https://github.com/openwhisk/openwhisk/blob/master/docs/actions.md#creating-swift-actions) - OpenWhisk runtime for Swift.
@@ -182,7 +187,7 @@
 
 - [Node.js](https://github.com/openwhisk/openwhisk-client-js) - JavaScript client library for the OpenWhisk platform.
 - [Swift](https://github.com/openwhisk/openwhisk-client-swift) - Swift client SDK for OpenWhisk with support for iOS, WatchOS2, and Darwin CLI apps.
-
+- [Python](https://github.com/openwhisk/openwhisk-client-python) - Python client library for the OpenWhisk platform.
 
 ## Support
 
