@@ -90,6 +90,7 @@
 - [Mobile Services Demo](https://github.com/gconan/BluemixMobileServicesDemoApp)- Swift app that for analysing tone and posting to a slack channel.
 - [Drink Chooser](https://github.com/SwiftOnTheServer/DrinkChooser)- Example Swift app storing to & reading from Redis recommending a drink to consume.
 - [Lastversion](https://github.com/shaftoe/lastversion)- An HTTP service to fetch latest stable version of OpenSource projects, written in Go and running as OpenWhisk action
+- [Form processing with OpenWhisk](https://github.com/IBM-Bluemix/OpenWhiskContact) - Process contact form without a backend using IBM Bluemix OpenWhisk and SendGrid. [See live link here](https://ibm-bluemix.github.io/OpenWhiskContact/)
 
 
 ## Media
