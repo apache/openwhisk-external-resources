@@ -67,6 +67,7 @@
 
 *Sample open-source projects built using the OpenWhisk platform*
 
+- [Contact form processing with OpenWhisk](https://github.com/IBM-Bluemix/OpenWhiskContact) - Process contact form without a backend using IBM Bluemix OpenWhisk and SendGrid. [See live link here](https://ibm-bluemix.github.io/OpenWhiskContact/)
 - [OpenWhisk 101 - Your first Action, Trigger, and Rule](https://github.com/IBM/openwhisk-action-trigger-rule) - Simple Hello World style demo showing OpenWhisk actions, triggers, and rules.
 - [OpenWhisk 101 - Message Hub and Kafka Data Processing](https://github.com/IBM/openwhisk-data-processing-message-hub) - Example of using OpenWhisk with Message Hub and Kafka to consume and publish messages.
 - [OpenWhisk 101 - OpenWhisk and Serverless APIs](https://github.com/IBM/openwhisk-serverless-apis)
