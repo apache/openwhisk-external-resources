@@ -21,9 +21,13 @@
 ## Articles
 
 *Articles, tutorials and blogs on building serverless applications using OpenWhisk.*
-- [Using the new OpenWhisk Debugger](https://medium.com/openwhisk/using-the-new-openwhisk-debugger-b1b57d0d7d8b) - A step by step guide on using the new OpenWhisk debugger ‘wskdb’.
+- [Five minute intro to open source serverless development with OpenWhisk](https://medium.com/openwhisk/five-minute-intro-to-open-source-serverless-development-with-openwhisk-328b0ebfa160).
+- [Your business won't use a server in 5 years](https://blogs.adobe.com/conversations/2016/12/your-business-wont-use-a-server-in-5-years.html) - Blog post from Adobe on why they got involved with the Apache OpenWhisk project.
+- [Squeezing the milliseconds: How to make serverless platforms blazing fast!](https://medium.com/openwhisk/squeezing-the-milliseconds-how-to-make-serverless-platforms-blazing-fast-aea0e9951bd0) - A follow up to "Uncovering the magic" below, this article takes a closer look at OpenWhisk performance characteristics.
+- [Squeezing the milliseconds: How to make serverless platforms blazing fast!](https://medium.com/openwhisk/squeezing-the-milliseconds-how-to-make-serverless-platforms-blazing-fast-aea0e9951bd0) - A follow up to "Uncovering the magic" below, this article takes a closer look at OpenWhisk performance characteristics.
+- [Whisking the Weather!](https://medium.com/openwhisk/whisking-the-weather-74ecda4d7105) - How and why a mobile app developer developed a unique and fun weather app called Weather Gods with OpenWhisk.
 - [“Advanced debugging of OpenWhisk actions”](https://medium.com/openwhisk/advanced-debugging-of-openwhisk-actions-518414636932) describes how to test an Apache OpenWhisk action locally using Docker and a helper Python script.
-- [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de) - Describes a sample application for a flexible edge platform using OpenWhisk, Node-RED and resin.io to manage provisioning and lifecycle of Docker-based applications on a fleet of IoT gateways, such as raspberry pi.
+- [Extending OpenWhisk to the IoT Edge with Node-RED, Docker and resin.io](https://medium.com/openwhisk/extending-openwhisk-to-the-iot-edge-with-node-red-docker-and-resin-io-bec7f30ea2de) - Describes a sample application for a flexible edge platform using OpenWhisk, Node-RED and resin.io to manage provisioning and lifecycle of Docker-based applications on a fleet of IoT gateways, such as Raspberry Pi.
 - [OpenWhisk and The Serverless Framework](https://medium.com/openwhisk/openwhisk-and-the-serverless-framework-b05ce569137a#.n1lyyw17v) - Build serverless apps with OpenWhisk and The Serverless Framework.
 - [Uncovering the magic: How serverless platforms really work!](https://medium.com/openwhisk/uncovering-the-magic-how-serverless-platforms-really-work-3cb127b05f71) - A step by step guide through the inner guts of OpenWhisk.
 - [HTTP handlers with OpenWhisk](https://medium.com/openwhisk/serverless-http-handlers-with-openwhisk-90a986cc7cdd) - This blog post demonstrates the use of OpenWhisk web actions to write HTTP handlers.
@@ -67,9 +71,10 @@
 
 *Sample open-source projects built using the OpenWhisk platform*
 
-- [OpenWhisk 101 - Your first Action, Trigger, and Rule](https://github.com/IBM/openwhisk-action-trigger-rule) - Simple Hello World style demo showing OpenWhisk actions, triggers, and rules.
-- [OpenWhisk 101 - Message Hub and Kafka Data Processing](https://github.com/IBM/openwhisk-data-processing-message-hub) - Example of using OpenWhisk with Message Hub and Kafka to consume and publish messages.
-- [OpenWhisk 101 - OpenWhisk and Serverless APIs](https://github.com/IBM/openwhisk-serverless-apis)
+- [Your first Action, Trigger, and Rule](https://github.com/IBM/openwhisk-action-trigger-rule) - Simple Hello World style demo showing OpenWhisk actions, triggers, and rules.
+- [Message Hub and Kafka Data Processing](https://github.com/IBM/openwhisk-data-processing-message-hub) - Create a serverless, event-driven application with OpenWhisk that executes code in response to messages or to handle streams of data records from Apache Kafka or IBM Message Hub.
+- [OpenWhisk and Serverless APIs](https://github.com/IBM/openwhisk-serverless-apis) - Create a serverless, event-driven application with OpenWhisk that executes code in response to HTTP REST API calls.
+- [Cloudant Data Processing](https://github.com/IBM/openwhisk-data-processing-cloudant) - Create a serverless, event-driven application with OpenWhisk that executes code in response to database changes from Apache CouchDB or IBM Cloudant.
 - [Transit IoT](https://medium.com/openwhisk/transit-flexible-pipeline-for-iot-data-with-bluemix-and-openwhisk-4824cf20f1e0) - Comprehensive example of using OpenWhisk for IoT data processing that uses Docker, Node-RED, Message Hub (Kafka based), Object Storage, Spark and Bluemix Data Science Experience services for data analytics.
 - [Emoting](https://github.com/l2fprod/openwhisk-emoting) - Sample “user feedback” app that uses OpenWhisk actions via REST API with pages hosted on GitHub and database in Cloudant.
 - [Logistics Wizard](https://github.com/IBM-Bluemix/logistics-wizard) - Enterprise-grade sample application which leverages OpenWhisk and CloudFoundry to build 12-factor style applications. It is a smart supply chain management solution that aims to simulate an environment running an ERP system. Also see [related blog post](https://www.ibm.com/blogs/bluemix/2017/02/microservices-multi-compute-approach-using-cloud-foundry-openwhisk/).
@@ -111,11 +116,12 @@
 
 ### Presentations
 
-- [Event-driven and Serverless Computing with OpenWhisk](https://www.youtube.com/watch?v=rVGFll1sRY4) - Video from Serverless Conf London 2016 by Andreas Nauerz & Michael Behrendt
-- [OpenWhisk Under the Hood](https://www.youtube.com/watch?v=S-fY1exdbao) - Video from Serverless Conf London 2016 by Stephen Fink
+- [Serverless architectures built on an open source platform](https://www.oreilly.com/ideas/serverless-architectures-on-an-open-source-platform) - Five minute IBM keynote introducing OpenWhisk at the O'Reilly Software Architecture Conference in NYC 2017.
+- [Event-driven and Serverless Computing with OpenWhisk](https://www.youtube.com/watch?v=rVGFll1sRY4) - Video from Serverless Conf London 2016 by Andreas Nauerz & Michael Behrendt.
+- [OpenWhisk Under the Hood](https://www.youtube.com/watch?v=S-fY1exdbao) - Video from Serverless Conf London 2016 by Stephen Fink.
 - [Lightning talk introducing serverless architectures and OpenWhisk](http://www.slideshare.net/DanielKrook/cloud-native-architectures-with-an-open-source-event-driven-serverless-platform) - IBM keynote at CloudNativeCon + KubeCon 2016. [Video](https://www.youtube.com/watch?v=C3PPmlUkarY) also available.
 - [Tech Talk about OpenWhisk](https://developer.ibm.com/open/events/dw-open-tech-talk-openwhisk/) - Detailed look at this new open source platform from Stephen Fink.
-- [The Future Of Cloud Programming](https://www.youtube.com/watch?v=sV7W-eK2x5U) - IBM Bluemix OpenWhisk Talk @ Codemotion 2016, Amsterdam
+- [The Future Of Cloud Programming](https://www.youtube.com/watch?v=sV7W-eK2x5U) - IBM Bluemix OpenWhisk Talk @ Codemotion 2016, Amsterdam.
 - [Serverless Applications with Cloud Foundry and OpenWhisk](https://www.youtube.com/watch?v=kydt6JgW6_8) - Video from Cloud Foundry Summit 2016.
 - [Microservices Without Servers](http://jamesthom.as/blog/2016/09/08/microservices-without-servers/) - Slides, demo videos and sample code from conference talk on building serverless applications with OpenWhisk.
 - [Voxxed Days Presentation](https://youtu.be/SpmSu6-BOrI?t=8h9m22s) - Video recording for the Microservices Without Servers talk.
