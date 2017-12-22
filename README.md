@@ -152,7 +152,7 @@
 
 ### Community Examples
 
-- [Scala](https://developer.ibm.com/openwhisk/2016/07/26/openwhisk-actions-scala/) - Example article with Github code for running OpenWhisk Actions in Scala.
+- [Scala](https://developer.ibm.com/opentech/2017/01/25/serverless-chat-application-using-openwhisk-docker-scala-ibm-cloudant/) - Example article with Github code for running OpenWhisk Actions in Scala.
 - [Haskell](https://github.com/rainbyte/openwhisk-wrapper) - Haskell-based OpenWhisk services
 - [Docker Examples](https://github.com/gekola/openwhisk_docker_samples) - Run Clojure, Erlang, Ruby and Rust Actions on OpenWhisk using Docker.
 - [Go](http://jamesthom.as/blog/2017/01/17/openwhisk-and-go/) - Blog post and library for building Go language Actions.
