@@ -64,6 +64,7 @@
 
 - [Official OpenWhisk Tutorial](https://github.com/openwhisk/openwhisk-tutorial) - Interactive tutorial for learning how to use OpenWhisk.
 - [OpenWhisk-workshop](https://www.npmjs.com/package/openwhisk-workshop) - This workshop will help you learn OpenWhisk and introduce you to the concepts behind the platform using NodeSchool toolchain.
+- [60secs Quickstart](http://jamesthom.as/blog/2018/01/19/starting-openwhisk-in-sixty-seconds/) - Starting OpenWhisk in Sixty Seconds
 
 
 ## Sample Applications
