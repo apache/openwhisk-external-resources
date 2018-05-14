@@ -11,6 +11,7 @@
 - [Tutorials](#tutorials)
 - [Sample Applications](#sample-applications)
 - [Articles](#articles)
+- [Books](#books)
 - [Media](#media)
 - [Runtimes](#runtimes)
 - [Feed Providers](#feed-providers)
@@ -97,6 +98,10 @@
 - [Lastversion](https://github.com/shaftoe/lastversion)- An HTTP service to fetch latest stable version of OpenSource projects, written in Go and running as OpenWhisk action
 - [Form processing with OpenWhisk](https://github.com/IBM-Bluemix/OpenWhiskContact) - Process contact form without a backend using IBM Bluemix OpenWhisk and SendGrid. [See live link here](https://ibm-bluemix.github.io/OpenWhiskContact/)
 
+## Books
+
+- [Developing Serverless Applications, A Practical Introduction with Apache OpenWhisk]
+(https://www.oreilly.com/programming/free/developing-serverless-applications.csp) - free ebook
 
 ## Media
 
@@ -113,6 +118,7 @@
 - [Project OpenFridge](https://www.youtube.com/watch?v=0Sl4rWZYo8w) - Improving customer service with IoT and event-driven computing.
 - [Build a cloud native app with Apache OpenWhisk](https://developer.ibm.com/tv/build-a-cloud-native-app-with-apache-openwhisk/) - An overview of serverless architectures, introduction to the OpenWhisk programming model, and deployment of an OpenWhisk application on IBM Bluemix.
 - [Using Serverless Framework & OpenWhisk](https://www.youtube.com/watch?v=GJY10W98Itc&t=3s) - Using the framework to build OpenWhisk applications.
+- RedHat Summit 2018 [breakout session on OpenWhisk](https://www.youtube.com/watch?v=C2u6wVRI-N0)
 
 ### Presentations
 
