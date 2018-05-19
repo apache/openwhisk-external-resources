@@ -176,6 +176,7 @@
 - [openwhisk-package-iot](https://github.com/tareqmamari/openwhisk-package-iot) - Package including all actions and feeds of Watson IoT Platform.
 - [openwhisk-mqtt-feed](https://github.com/jthomas/openwhisk_mqtt_feed) - MQTT package for OpenWhisk, provides a topic subscriber feed.
 - [openwhisk-package-mqtt-watson](https://github.com/krook/openwhisk-package-mqtt-watson) - OpenWhisk MQTT Package for Watson IoT service.
+- [openwhisk-package-aws](https://github.com/projectodd/openwhisk-package-aws) - OpenWhisk AWS package, providing feeds for SNS topics and S3 bucket changes
 
 
 
