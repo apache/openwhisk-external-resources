@@ -177,6 +177,7 @@
 - [openwhisk-mqtt-feed](https://github.com/jthomas/openwhisk_mqtt_feed) - MQTT package for OpenWhisk, provides a topic subscriber feed.
 - [openwhisk-package-mqtt-watson](https://github.com/krook/openwhisk-package-mqtt-watson) - OpenWhisk MQTT Package for Watson IoT service.
 - [openwhisk-package-aws](https://github.com/projectodd/openwhisk-package-aws) - OpenWhisk AWS package, providing feeds for SNS topics and S3 bucket changes
+- [amqp-wsk-feed](https://github.com/cliffjansen/amqp-wsk-feed) - OpenWhisk AMQP package, provides a feed for AMQP 1.0 topics and queues.
 
 
 
