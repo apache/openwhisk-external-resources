@@ -1,6 +1,6 @@
-# Awesome OpenWhisk [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://raw.githubusercontent.com/openwhisk/openwhisk/master/docs/images/whisk_icon_full_color_with_tm_100x100-300dpi.png" width="100" align="right" alt="openwhisk">](https://github.com/openwhisk/openwhisk)
+# OpenWhisk External Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://raw.githubusercontent.com/openwhisk/openwhisk/master/docs/images/whisk_icon_full_color_with_tm_100x100-300dpi.png" width="100" align="right" alt="openwhisk">](https://github.com/openwhisk/openwhisk)
 
-> Awesome [OpenWhisk](https://www.github.com/openwhisk/openwhisk) resources and tips.
+> Apache [OpenWhisk](https://www.github.com/apache/openwhisk) resources and tips.
 
 *OpenWhisk is a cloud-first distributed event-based programming service. It provides a programming model to upload event handlers to a cloud service, and register the handlers to respond to various events.*
 
