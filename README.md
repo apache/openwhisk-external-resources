@@ -8,15 +8,15 @@
 
 ## Contents
 
+- [Tutorials](#tutorials)
+- [Sample Applications](#sample-applications)
 - [Articles](#articles)
-- [Applications](#applications)
+- [Books](#books)
 - [Media](#media)
-- [Workshops](#workshops)
 - [Runtimes](#runtimes)
 - [Feed Providers](#feed-providers)
 - [Utilities](#utilities)
 - [Support](#support)
-
 
 
 ## Articles
@@ -28,7 +28,7 @@
 - [Exploring OpenWhisk's REST API](https://amanoblog.wordpress.com/2016/03/03/ibm-bluemix-openwhisk-rest-api/) - Details on the platform API for OpenWhisk.
 - [Building an MQTT Feed Provider](http://jamesthom.as/blog/2016/06/15/openwhisk-and-mqtt/) - Walking through adding a new Feed Provider for IoT integration.
 - [NPM Modules in OpenWhisk](http://jamesthom.as/blog/2016/11/28/npm-modules-in-openwhisk/) - Using NPM modules in OpenWhisk Actions.
-- [Python Packages in OpenWhisk](http://jamesthom.as/blog/2017/04/27/python-packages-in-openwhisk /) - Using external Python libraries in OpenWhisk
+- [Python Packages in OpenWhisk](http://jamesthom.as/blog/2017/04/27/python-packages-in-openwhisk/) - Using external Python libraries in OpenWhisk
 - [Docker Actions in OpenWhisk](http://jamesthom.as/blog/2017/01/16/openwhisk-docker-actions/) - Running custom runtimes on OpenWhisk with Docker.
 - [Using Go with OpenWhisk](http://jamesthom.as/blog/2017/01/17/openwhisk-and-go/) - Running Go binaries on OpenWhisk
 - [SMS Bot](http://jamesthom.as/blog/2017/03/20/smsbot/) - SMS Bot with Twilio and Slack 
@@ -44,44 +44,30 @@
 - [Getting Started with Serverless PHP](https://akrabat.com/getting-started-with-serverless-php/) - Introduction to PHP runtime on OpenWhisk.
 - [OpenWhisk Alexa Skills](https://akrabat.com/creating-an-openwhisk-alexa-skill/) - Creating Alexa skills with Swift on OpenWhisk
 
-
-
-## Applications
+## Sample Applications
 
 *Sample open-source projects built using the OpenWhisk platform*
 
 - [openwhisk-emoting](https://github.com/IBM-Cloud/openwhisk-emoting) - Capture audience feedback with a serverless app 😄 😡
-
 - [alexa-skill-watson-conversaion](https://github.com/IBM/alexa-skill-watson-conversation) - Alexa Skill using OpenWhisk, IBM Watson Assistant and Weather Channel Data
-
 - [keynuker](https://github.com/tleyden/keynuker) - nuke AWS keys accidentally leaked to Github
-
 - [skylink](https://github.com/IBM-Bluemix/skylink) - Connect and control a DJI drone aircraft over the Internet with OpenWhisk.
-
 - [BluePic](https://github.com/IBM-Swift/BluePic) - Photo sharing application for iOS using Swift Actions for the backend.
-
 - [Conference Plan Bot](https://github.com/krook/owplan) - Conference planning bot built using serverless functions.
-
 - [Project OpenFridge](https://github.com/krook/openfridge) - Improving customer service with IoT and event-driven computing.
-
 - [Project OpenChecks](https://github.com/krook/openchecks) - Processes the deposit of checks to a bank account with object storage and OCR.
-
 - [openwhisk-slackapp](https://github.com/IBM-Bluemix/openwhisk-slackapp) - Serverless Slack app built with Slack Events API and OpenWhisk.
-
 - [openwhisk-visionapp](https://github.com/IBM-Bluemix/openwhisk-visionapp) - Image tagging and face detection iOS app built with OpenWhisk.
-
 - [openwhisk-darkvision](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - Discover dark data in videos with IBM Watson and IBM Cloud Functions
-
 - [openwhisk-jq](https://github.com/ibmets/openwhisk-jq) - OpenWhisk Action wrapping the JQ command-line utility for JSON filtering.
-
 - [Personality Analysis](https://github.com/iwinoto/openwhisk-demo-personalityanalysis) - Analysing political speeches using IBM Watson.
-
 - [smsbot](https://github.com/ibmets/smsbot) - SMS Bot for Slack using Twilio and OpenWhisk 
-
 - [alexa-project-name-generator](https://github.com/lornajane/alexa-project-codename) - Alexa skill to generate a codename for your next project 
 
-  
+## Books
 
+- [Developing Serverless Applications, A Practical Introduction with Apache OpenWhisk]
+(https://www.oreilly.com/programming/free/developing-serverless-applications.csp) - free ebook
 
 ## Media
 
@@ -121,15 +107,12 @@
 - [#vSurround: Are Serverless Architectures Ready for Primetime?](https://www.youtube.com/watch?v=_Q9Q4L3IdIY) - Roundtable discussion with Daniel Krook (IBM), Adam Johnson (IOpipe), David Wells (Serverless), and Ryan Scott Brown (Red Hat) about serverless definitions, use cases, and what's to come in 2017.
 - [The FaaS and the Furious](https://gb.ivoox.com/en/ep-37-the-faas-and-the-furious-audios-mp3_rf_20040411_1.html) - Serverless Architecture with Apache OpenWhisk description
 
-
-
 ## Workshops
 
 *Tutorials and other material to help you learn OpenWhisk*
 
 - [Apache OpenWhisk Workshop](https://github.com/jthomas/openwhisk-workshops) - Complete bootcamp workshop on learning how to use OpenWhisk.
 - [openwhisk-workshop](https://www.npmjs.com/package/openwhisk-workshop) - Command-line utility to introduce the concepts behind the platform using NodeSchool toolchain.
-  
 
 ## Runtimes
 
@@ -144,6 +127,7 @@
 - [Docker](https://github.com/apache/incubator-openwhisk/blob/master/docs/actions-docker.md) - OpenWhisk runtime for Docker Actions using SDK.
 - [PHP](https://github.com/apache/incubator-openwhisk/blob/master/docs/actions-php.md) - OpenWhisk runtime for PHP 7.2 and 7.1
 - [Go](https://github.com/apache/incubator-openwhisk/blob/master/docs/actions-go.md) - OpenWhisk runtime for Go lang.
+- [Ruby](https://github.com/apache/incubator-openwhisk/blob/master/docs/actions-ruby.md) - OpenWhisk runtime for Ruby lang.
 
 ### Community Examples
 
@@ -154,11 +138,8 @@
 - [COBOL](https://github.com/morecobol/cobol.run) - Run serverless COBOL programs on OpenWhisk 
 - [QBASIC](https://psuter.net/2018/07/15/serverless-qbasic) - QBASIC on OpenWhisk
 - [Kotlin](https://github.com/ibm-functions/runtime-kotlin) - IBM Functions (OpenWhisk) runtime for Kotlin Actions 
-- [Ruby](https://github.com/remore/openwhisk-runtime-ruby) - Apache OpenWhisk runtimes for Ruby
 - [Prolog](https://github.com/NaohiroTamura/openwhisk-runtime-prolog) - OpenWhisk Runtimes for SWI Prolog
 - [Ballerini](https://github.com/imesh/openwhisk-runtime-ballerina) - Apache OpenWhisk runtime for Ballerina 
-
-
 
 ## Feed Providers
 
@@ -167,13 +148,11 @@
 - [openwhisk-package-imap](https://github.com/tareqmamari/openwhisk-package-imap) - OpenWhisk Package to expose IMAP emails as a trigger feed.
 - [openwhisk-package-template](https://github.com/openwhisk/openwhisk-package-template) - This is a template to be use when creating new packages for OpenWhisk.
 - [openwhisk-package-iot](https://github.com/tareqmamari/openwhisk-package-iot) - Package including all actions and feeds of Watson IoT Platform.
-- [openwhisk-mqtt-feed](https://github.com/jthomas/openwhisk_mqtt_feed) - MQTT package for OpenWhisk, provides a topic subscriber feed.
+- [openwhisk-mqtt-feed](https://github.com/jthomas/openwhisk_mqtt_feed) - MQTT package for OpenWhisk, provides a topic subscriber feed.
 - [openwhisk-package-mqtt-watson](https://github.com/krook/openwhisk-package-mqtt-watson) - OpenWhisk MQTT Package for Watson IoT service.
 - [amqp-wsk-feed](https://github.com/cliffjansen/amqp-wsk-feed) -  AMQP package for OpenWhisk 
 - [jms-feed-provider](https://github.com/kameshsampath/jms-feed-provider) - JMS Feed Provider 
 - [AWS OpenWhisk integration](https://github.com/projectodd/openwhisk-package-aws) - Package to integrate Amazon Web Services (AWS) with OpenWhisk 
-
-
 
 ## Utilities
 
@@ -196,12 +175,11 @@
 
 - [Node.js](https://github.com/openwhisk/openwhisk-client-js) - JavaScript client library for the OpenWhisk platform.
 
-
 ## Support
 
 *Got stuck with Apache OpenWhisk? Find help here…*
 
 - [GitHub Issues for OpenWhisk](https://github.com/openwhisk/openwhisk/issues).
 - [Stack Overflow #openwhisk](http://stackoverflow.com/questions/tagged/openwhisk).
-- [Slack Group #openwhisk](https://developer.ibm.com/open/slackin/).
+- [Slack Group #openwhisk](http://slack.openwhisk.org/).
 - Twitter [@openwhisk](https://twitter.com/openwhisk)
