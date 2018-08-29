@@ -66,8 +66,7 @@
 
 ## Books
 
-- [Developing Serverless Applications, A Practical Introduction with Apache OpenWhisk]
-(https://www.oreilly.com/programming/free/developing-serverless-applications.csp) - free ebook
+- [Developing Serverless Applications, A Practical Introduction with Apache OpenWhisk](https://www.oreilly.com/programming/free/developing-serverless-applications.csp) - free ebook
 
 ## Media
 
