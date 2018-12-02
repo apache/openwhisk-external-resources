@@ -138,7 +138,7 @@
 - [QBASIC](https://psuter.net/2018/07/15/serverless-qbasic) - QBASIC on OpenWhisk
 - [Kotlin](https://github.com/ibm-functions/runtime-kotlin) - IBM Functions (OpenWhisk) runtime for Kotlin Actions 
 - [Prolog](https://github.com/NaohiroTamura/openwhisk-runtime-prolog) - OpenWhisk Runtimes for SWI Prolog
-- [Ballerini](https://github.com/imesh/openwhisk-runtime-ballerina) - Apache OpenWhisk runtime for Ballerina 
+- [Ballerina](https://github.com/imesh/openwhisk-runtime-ballerina) - Apache OpenWhisk runtime for Ballerina 
 
 ## Feed Providers
 
