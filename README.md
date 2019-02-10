@@ -139,6 +139,7 @@
 - [Kotlin](https://github.com/ibm-functions/runtime-kotlin) - IBM Functions (OpenWhisk) runtime for Kotlin Actions 
 - [Prolog](https://github.com/NaohiroTamura/openwhisk-runtime-prolog) - OpenWhisk Runtimes for SWI Prolog
 - [Ballerina](https://github.com/imesh/openwhisk-runtime-ballerina) - Apache OpenWhisk runtime for Ballerina 
+- [Blue Cloud Mirror](https://github.com/IBM/blue-cloud-mirror) -  Fun game built with Vue.js, TensorFlow and IBM technologies
 
 ## Feed Providers
 
