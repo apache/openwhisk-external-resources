@@ -50,7 +50,7 @@
 *Sample open-source projects built using the OpenWhisk platform*
 
 - [openwhisk-emoting](https://github.com/IBM-Cloud/openwhisk-emoting) - Capture audience feedback with a serverless app 😄 😡
-- [alexa-skill-watson-conversaion](https://github.com/IBM/alexa-skill-watson-conversation) - Alexa Skill using OpenWhisk, IBM Watson Assistant and Weather Channel Data
+- [alexa-skill-watson-conversation](https://github.com/IBM/alexa-skill-watson-conversation) - Alexa Skill using OpenWhisk, IBM Watson Assistant and Weather Channel Data
 - [keynuker](https://github.com/tleyden/keynuker) - nuke AWS keys accidentally leaked to Github
 - [skylink](https://github.com/IBM-Bluemix/skylink) - Connect and control a DJI drone aircraft over the Internet with OpenWhisk.
 - [BluePic](https://github.com/IBM-Swift/BluePic) - Photo sharing application for iOS using Swift Actions for the backend.
