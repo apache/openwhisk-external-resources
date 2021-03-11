@@ -84,6 +84,9 @@
 - [Working With OpenWhisk - Part 1](https://www.youtube.com/watch?v=RHzQf5eoAwc) - Getting started with OpenWhisk videos series.
 - [Working with OpenWhisk - Part 2](https://www.youtube.com/watch?v=lujECfCPiGM) - Asynchronous Actions
 - [Working With OpenWhisk - Part 3](https://www.youtube.com/watch?v=PFZDvvT7oX0) - Handling Errors
+- [Using Serverless Framework & OpenWhisk](https://www.youtube.com/watch?v=GJY10W98Itc&t=3s) - Using the framework to build OpenWhisk applications.
+- [Serverless Computing & Apache OpenWhisk](http://v.youku.com/v_show/id_XMjc5OTkxNjE0MA) - Introduction of Serverless Computing and Apache OpenWhisk,including project history, programming model, architecture, and community.
+- [Serverless IoT Applications with Apache OpenWhisk](http://v.youku.com/v_show/id_XMjg1OTM3NjA2OA) - Serverless application patterns for the IoT.
 
 ### Presentations
 
